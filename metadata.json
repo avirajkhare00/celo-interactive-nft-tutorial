@@ -1,0 +1,22 @@
+{
+    "title": "MyNFT0",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "MyNFT0"
+        },
+        "description": {
+            "type": "string",
+            "description": "This is an interactive NFT."
+        },
+        "image": {
+            "type": "string",
+            "description": "QmeK8rGSbnCo9e9vU56a1RVbEfVWQmYcY7Cm8tTigP2Ygx"
+        },
+        "js": {
+            "type": "string",
+            "description": "QmNNmM722TjoF2DVtKsiMFJsfkjYJNe2GAGFUZSg7YGAjH"
+        }
+    }
+}
